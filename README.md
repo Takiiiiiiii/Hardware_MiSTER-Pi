@@ -1,1 +1,1 @@
-# MiSTER-Template-Case
+# MiSTER Template Case
